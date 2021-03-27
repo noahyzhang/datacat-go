@@ -1,2 +1,2 @@
-# monitor
+# datacat-go
 Related components for monitoring
